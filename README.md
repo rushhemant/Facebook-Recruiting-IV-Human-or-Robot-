@@ -1,4 +1,4 @@
-# Facebook-Recruiting-IV-Human-or-Robot
+# Human-or-Robot Logistic Regression
 
 Kaggle Link - https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 
